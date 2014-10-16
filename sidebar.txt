@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acp:home|Door43 (acp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acp|d43-acp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acp/archive/master.zip|d43-acp.zip]]
+
+**Recent Changes**
+{{changes>ns = acp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acp|Ethnologue data]]
+
